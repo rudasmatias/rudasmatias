@@ -56,7 +56,6 @@ Full Stack Programming student with a strong background in Industrial Organizati
 
 
 
-</td></tr></table>  
 
 <br/>  
 
