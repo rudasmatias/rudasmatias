@@ -59,6 +59,7 @@ Full Stack Programming student with a strong background in Industrial Organizati
 
 <br/>  
 
+<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -71,7 +72,7 @@ Full Stack Programming student with a strong background in Industrial Organizati
 </div>  
   
 
-<br/>  
+
 
 
 
